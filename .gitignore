@@ -1,0 +1,10 @@
+node_modules/
+.next/
+data/
+*.db
+*.db-wal
+*.db-shm
+.env*
+.DS_Store
+# real exam papers are copyrighted and personal: never commit them
+papers-real/
